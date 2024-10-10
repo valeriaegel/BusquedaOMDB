@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusquedaOMDB", "BusquedaOMDB\BusquedaOMDB.csproj", "{76CDE885-E456-4BD7-9348-0C98A885877A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{0E2CC4C6-70D6-45C7-9D85-951C966F6E8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76CDE885-E456-4BD7-9348-0C98A885877A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76CDE885-E456-4BD7-9348-0C98A885877A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76CDE885-E456-4BD7-9348-0C98A885877A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76CDE885-E456-4BD7-9348-0C98A885877A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E2CC4C6-70D6-45C7-9D85-951C966F6E8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E2CC4C6-70D6-45C7-9D85-951C966F6E8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E2CC4C6-70D6-45C7-9D85-951C966F6E8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E2CC4C6-70D6-45C7-9D85-951C966F6E8F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {941FBB2E-D516-46CA-AF2B-1A39FFC2676B}
+	EndGlobalSection
+EndGlobal
