@@ -29,6 +29,7 @@ namespace BusquedaOMDB
                 Console.WriteLine($"Titulo: {serie.Title}");
                 Console.WriteLine($"Director: {serie.Director}");
                 Console.WriteLine($"Actores: {serie.Actors}");
+                      Console.WriteLine($"Genero: {serie.Genre}");
             }
             else
             {
